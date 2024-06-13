@@ -1,0 +1,6 @@
+rootProject.name = 'MyProject'
+include 'module-common'
+include 'module-service'
+include 'module-web'
+include 'module-batch'
+
